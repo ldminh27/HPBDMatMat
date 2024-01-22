@@ -251,7 +251,7 @@ bokeh {
   z-index: 10;
 }
 
-.lit {
+/* .lit {
   background: linear-gradient(to bottom, #FFF6D9, #FBC36C);
   width: 15px;
   height: 35px;
@@ -273,7 +273,7 @@ bokeh {
     0 0 17px 7px rgba(251, 246, 190, 0.71);
   transform-origin: bottom;
   animation: flicker 1s ease-in-out alternate infinite;
-}
+} */
 
 @keyframes flicker {
   0% {
